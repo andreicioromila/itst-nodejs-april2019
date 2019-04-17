@@ -1,0 +1,16 @@
+{
+  "name": "example-npm",
+  "version": "1.0.0",
+  "description": "this is an example",
+  "main": "index.js",
+  "dependencies": {
+    "expres": "^0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretest": "echo \"Pretest\""
+  },
+  "author": "",
+  "license": "ISC"
+}
